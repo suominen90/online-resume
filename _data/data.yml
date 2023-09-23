@@ -118,7 +118,7 @@ experience:
         + Second
 
 project:
-  show: true
+  show: false
   order: 3
   title: Projects
   description: |
@@ -228,7 +228,7 @@ education:
         + Second
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
@@ -255,7 +255,7 @@ certificate:
         It's my Example Certificate Two by Example.
 
 publication:
-  show: true
+  show: false
   order: 7
   title: Publications
   description: |
@@ -278,7 +278,7 @@ publication:
       link:
 
 award:
-  show: true
+  show: false
   order: 8
   title: Awards
   description: |
@@ -303,7 +303,7 @@ award:
         It's my Example Awared Two by Example.
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
@@ -370,7 +370,7 @@ interest:
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
@@ -381,7 +381,7 @@ evaluation:
     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
   description: |

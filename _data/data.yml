@@ -90,32 +90,20 @@ profile:
 experience:
   show: true
   order: 2
-  title: Experiences
-  description: |
-    
-
+  title: Experience
+  description:
   items:
-    - company: Second Company
-      link: '#'
+    - company: Utopia Analytics
+      link: 'https://www.utopiaanalytics.com/'
       tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
+      date: 2019/05 - present
+      role: Text Data Scientist
+      location: Helsinki
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
-
-    - company: First Company
-      link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        + Being in charge of the model building in several customer projects
+        + Updating models and monitoring model and data quality to ensure high performance
+        + Data analysis: detecting issues in customer data
+        + Development: developing data analysis tools
 
 project:
   show: false
@@ -209,19 +197,17 @@ education:
       major: Language Technology
       degree: Master of Arts
       description: |
-        Additional information for this institution.
+        + Degree program: Linguistic Diversity in the Digital Age, Faculty of Arts
         + Minors: Digital Humanities, Computer Science
-        + Second
+        + Thesis title: Multilingual Named Entity Recognition through Data and Model Transfer
 
-    - institution: Example University
+    - institution: University of Helsinki
       link:
-      date: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
+      date: 2013 - 2018
+      major: English Philology
+      degree: Bachelor of Arts
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        + Minors: Language Technology, Film and Television Studies
 
 certificate:
   show: false

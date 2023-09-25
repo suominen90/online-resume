@@ -204,7 +204,7 @@ education:
   description: 
   items:
     - institution: University of Helsinki
-      link: '#https://helda.helsinki.fi/items/bf9839a1-6d9c-4043-b515-285e1dc52092'
+      link: 'https://helda.helsinki.fi/items/bf9839a1-6d9c-4043-b515-285e1dc52092'
       date: 2018 - 2021
       major: Language Technology
       degree: Master of Arts

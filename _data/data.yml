@@ -3,7 +3,7 @@ basic:
   title: Text Data Scientist         # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/01A4841_kopio.png # avatar file path
 
 contact:
   # meta

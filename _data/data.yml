@@ -139,25 +139,19 @@ skill:
   order: 4
   title: Skills
   description: 
-  items:
-    - name: Python
-      level: 5
-    - name: Linux command line tools
-      level: 4
-    - name: SQL
-      level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
+  groups:
+    - name: Core skills
+      item:
+        - Python
+        - Linux command line tools
+        - Machine learning libraries/tools such as PyTorch, BERT, RoBERTa
+        - SQL
+    - name: Other skills
+      item:
+        - Regular expressions
+        - Skill F
+        - Skill G
+
 
 education:
   show: true
